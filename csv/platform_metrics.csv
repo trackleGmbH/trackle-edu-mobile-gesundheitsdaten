@@ -1,0 +1,86 @@
+﻿Name,Kategorie,Provider
+"Achtsamkeits-Sitzungen
+",Schlaf u. Welnness,Apple Healthkit
+Aktiv verbrannte Energie,Aktivität und Fitness,"Apple Healthkit, Fitbit, Garmin, Google Health Connect, Oura"
+Aktivitätsereignisse,Aktivität und Fitness,"Google Health Connect, Oura"
+Aktivitätsrunden,Aktivität und Fitness,Google Health Connect
+Aktivitätssitzungen,Aktivität und Fitness,"Fitbit, Google Health Connect, Oura, Samsung Health"
+Anzahl alkoholischer Getränke,Ernährung und Konsum,Apple Healthkit
+Atemfrequenz,Vitaldaten,"Apple Healthkit, Fitbit, Google Health Connect, Oura"
+Basaltemperatur,Fruchtbarkeit,"Apple Healthkit, Google Health Connect"
+Bewegungszeit,Aktivität und Fitness,Apple Healthkit
+Blutalkoholgehalt,Labortests,Apple Healthkit
+"Blutalkoholgehalt ",Labortests,Apple Healthkit
+Blutdruck,Vitaldaten,"Apple Healthkit, Garmin, Google Health Connect, Samsung Health"
+"Blutzucker ",Labortests,"Apple Healthkit, Google Health Connect, Samsung Health"
+BMI,Körpermaße,Apple Healthkit
+Bodenkontaktzeit beim Laufen,Aktivität und Fitness,Apple Healthkit
+Doppelstandphase in Prozent,Mobilität,Apple Healthkit
+Durchschnittliche Gehgeschwindigkeit-Herzfrequenz,Vitaldaten,Apple Healthkit
+EKG Ausewtungen,Vitaldaten,Fitbit
+Elektrodermale Aktivität,Labortests,Apple Healthkit
+Energie Level / Erholung,Schlaf u. Welnness,"Garmin, Oura"
+Ernährungswerte,Ernährung und Konsum,"MyFitnessPall, Samsung Health"
+"Gangasymmetrie in Prozent ",Mobilität,Apple Healthkit
+Geburtsdatum,Körpermaße,Google Health Connect
+Geh-/Laufdistanz,Aktivität und Fitness,"Apple Healthkit, Google Health Connect, Oura"
+Gehgeschwindigkeit,Mobilität,Apple Healthkit
+Gesamtenergieverbrauch,Aktivität und Fitness,"Google Health Connect, Oura"
+Geschlecht,Körpermaße,Google Health Connect
+Gestiegene Treppen,Aktivität und Fitness,"Apple Healthkit, Google Health Connect, Samsung Health"
+Gewicht,Körpermaße,"Apple Healthkit, Fitbit, Garmin, Google Health Connect, Samsung Health"
+Größe,Körpermaße,"Apple Healthkit, Google Health Connect, Samsung Health"
+Grundumsatz,Aktivität und Fitness,Google Health Connect
+Handgelenkstemperatur während des Schlafens,Schlaf u. Welnness,Apple Healthkit
+"Herzfrequenz ",Vitaldaten,"Apple Healthkit, Fitbit, Garmin, Google Health Connect, Oura, Samsung Health"
+Herzfrequenzerholung nach 1 Minute,Vitaldaten,Apple Healthkit
+Herzfrequenzvariabilität,Vitaldaten,"Apple Healthkit, Fitbit, Garmin, Google Health Connect, Oura"
+Hüftumfang,Körpermaße,Google Health Connect
+Insulinabgabe,Labortests,Apple Healthkit
+Knochenmasse,Körpermaße,Google Health Connect
+Koffeinaufnahme,Ernährung und Konsum,"Google Health Connect, Samsung Health"
+Kopfhörer-Lärmbelastung,Umwelt,Apple Healthkit
+Körperfettanteil,Körpermaße,"Apple Healthkit, Fitbit, Garmin, Google Health Connect, Samsung Health"
+Körpertemperatur,Vitaldaten,"Apple Healthkit, Fitbit, Google Health Connect, Oura, Samsung Health"
+Laufgeschwindigkeit,Aktivität und Fitness,"Apple Healthkit, Google Health Connect"
+Laufleistung,Aktivität und Fitness,Apple Healthkit
+Magere Körpermasse,Körpermaße,"Apple Healthkit, Google Health Connect"
+maximale Sauerstoffaufnahme,Aktivität und Fitness,"Apple Healthkit, Fitbit, Garmin, Google Health Connect, MyFitnessPall, Oura, Samsung Health"
+"Menstruationsfluss ",Fruchtbarkeit,"Apple Healthkit, Garmin, Google Health Connect"
+Nahrungsaufnahme,Schlaf u. Welnness,Fitbit
+Ovulationstest-Ergebnisse,Fruchtbarkeit,"Apple Healthkit, Google Health Connect"
+Progesterontest-Ergebnisse,Fruchtbarkeit,Apple Healthkit
+Radfahr-Distanz,Aktivität und Fitness,Apple Healthkit
+"Ruheherzfrequenz ",Vitaldaten,"Apple Healthkit, Google Health Connect"
+Sauerstoffsättigung,Vitaldaten,"Apple Healthkit, Fitbit, Garmin, Google Health Connect, Oura, Samsung Health"
+Schlafanalyse,Schlaf u. Welnness,"Apple Healthkit, Fitbit, Garmin, Google Health Connect, Oura, Samsung Health"
+Schlafphasen,Schlaf u. Welnness,"Apple Healthkit, Fitbit, Garmin, Google Health Connect, Oura, Samsung Health"
+"Schritte ",Aktivität und Fitness,"Apple Healthkit, Fitbit, Garmin, Google Health Connect, Oura, Samsung Health"
+Schrittfrequenz,Aktivität und Fitness,Google Health Connect
+Schrittlänge,Mobilität,Apple Healthkit
+Schrittlänge beim Laufen,Aktivität und Fitness,Apple Healthkit
+"Schwangerschaftstest-Ergebnisse
+",Fruchtbarkeit,Apple Healthkit
+Schwimm-Distanz,Aktivität und Fitness,Apple Healthkit
+Schwimmzüge,Aktivität und Fitness,"Apple Healthkit, Google Health Connect"
+Sexuelle Aktivität,Fruchtbarkeit,Google Health Connect
+Stehzeit,Aktivität und Fitness,Apple Healthkit
+Stresslevel,Schlaf u. Welnness,"Garmin, Oura"
+"Taillenumfang
+",Körpermaße,"Apple Healthkit, Google Health Connect"
+Tauchtiefe,Umwelt,Apple Healthkit
+Trainingszeit,Aktivität und Fitness,"Apple Healthkit, Fitbit, Garmin, Google Health Connect, Oura"
+"Treppenabstiegsgeschwindigkeit ",Mobilität,Apple Healthkit
+"Treppenaufstiegsgeschwindigkeit ",Mobilität,Apple Healthkit
+Tretfrequenz beim Radfahren,Aktivität und Fitness,Google Health Connect
+Umgebungslärmbelastung,Umwelt,Apple Healthkit
+Unregelmäßige Rhythmus Benachrichtigungen,Vitaldaten,Fitbit
+UV-Belastung,Umwelt,Apple Healthkit
+Verbrannte Grundenergie,Aktivität und Fitness,"Apple Healthkit, Google Health Connect"
+"Vertikale Bewegung beim Laufen ",Aktivität und Fitness,Apple Healthkit
+Wasseraufnahme,Ernährung und Konsum,"Apple Healthkit, Fitbit, Google Health Connect, Samsung Health"
+Wassertemperatur,Umwelt,Apple Healthkit
+Wiederholungen,Aktivität und Fitness,Google Health Connect
+Zervixposition,Fruchtbarkeit,Google Health Connect
+Zervixschleim-Qualität,Fruchtbarkeit,"Apple Healthkit, Google Health Connect"
+Zwischenblutungen,Fruchtbarkeit,"Apple Healthkit, Google Health Connect"
