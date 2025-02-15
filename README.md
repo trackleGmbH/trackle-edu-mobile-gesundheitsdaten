@@ -4,10 +4,10 @@ Dieses Repository enthält die Implementierung und Forschungsdaten einer Bachelo
 
 ## Repository-Struktur
 
-├── code/                     # Implementierung des Projekts
-├── csv/
-│   ├── survey_results.csv    # Ergebnisse der Nutzerinnenbefragung (n=99)
-│   └── platform_metrics.csv  # Analyse verfügbarer Gesundheitsmetriken verschiedener Plattformen
+- `code/` - Implementierung des Gesundheitsdaten-Integrationssystems
+- `csv/`
+   - `survey_results.csv` - Ergebnisse der Nutzerinnenbefragung (n=99)
+   - `platform_metrics.csv` - Analyse verfügbarer Gesundheitsmetriken verschiedener Plattformen
 
 ## Projektübersicht
 
